@@ -3,8 +3,8 @@ En aquest repositori es troben els arxius necessaris per executar el codi i obte
 
 **carregar_dades.ipynb**
 Fitxer on s'han processat les dades dels 420 pacients i es troben creats els nous fitxers necessaris per l'execució del codi principal. En aquest fitxer també es troben explicat cadascun dell fitxers i les variables que inclou per poder realitzar els càlculs pertinents. D'aquest Jupyter notebook obtenim els seguents arxius tipus .csv:
-    - Regressio_ROA.csv \\
-    - Regressio_ROC.csvc\\
+    - Regressio_ROA.csv \
+    - Regressio_ROC.csv \
     - Regressio_RGA.csv
     - Regressio_RGC.csv
     - VAL_ROA.csv
