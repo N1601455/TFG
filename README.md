@@ -15,3 +15,6 @@ Fitxer on s'han processat les dades dels 420 pacients i es troben creats els nou
 
 **codi_main.ipynb**
 Fitxer on es troben tots els càlculs i models entrenats que estan descrits a la memòria del TFG.
+
+**Dades**
+Carpeta que inclou els nou fitxers creats i explicats en el Notebook carregar_dades.ipynb. 
