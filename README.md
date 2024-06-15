@@ -11,7 +11,7 @@ Fitxer on s'han processat les dades dels 420 pacients i es troben creats els nou
     - VAL_ROC.csv \
     - VAL_RGA.csv \
     - VAL_RGC.csv \
-    - indices.csv \
+    - indices.csv 
 
 **codi_main.ipynb**
 Fitxer on es troben tots els càlculs i models entrenats que estan descrits a la memòria del TFG.
