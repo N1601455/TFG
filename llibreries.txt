@@ -1,0 +1,3 @@
+# Llibreries necessaries per executar el codi:
+
+pip install pandas matplotlib numpy scikit-learn tensorflow
