@@ -18,3 +18,6 @@ Fitxer on es troben tots els càlculs i models entrenats que estan descrits a la
 
 **Dades** \
 Carpeta que inclou els nou fitxers creats i explicats en el Notebook carregar_dades.ipynb. 
+
+**llibreries.txt** \
+Fitxer de text que inclou els imports necessaries per poder executar el codi de carregar_dades.ipynb i codi_main.ipynb.
